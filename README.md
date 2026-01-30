@@ -26,5 +26,5 @@ O principal objetivo do TrigoTec é fornecer uma ferramenta acessível e fácil 
    git clone https://github.com/daviflx/Projeto-TrigoTec.git
    cd TrigoTec
    
-##Contribuição
+
    Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou um problema.
